@@ -35,7 +35,7 @@ To run the app locally, follow these steps:
    npx expo start
    ```
 
-## Screenshots
+## Screenshots    
 <details>
 	<summary>View screenshots</summary>
 <p align="left">
